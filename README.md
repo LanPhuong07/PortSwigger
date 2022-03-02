@@ -5,7 +5,8 @@ Các lab của PortSwigger được viết wu đơn giản do mức độ lườ
 
 Thích thì ⭐ không thích thì ⭐
 
-**1. SQL Injection**
+<h1>1. SQL Injection</h1>
+	
 <table>
 	<tr>
 		<td>Lab 1: </td>

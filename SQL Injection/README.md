@@ -1,4 +1,4 @@
-<tittle>SQL INJECTION</tittle>
+<h1>SQL INJECTION</h1>
 
 <table>
 	<tr>
