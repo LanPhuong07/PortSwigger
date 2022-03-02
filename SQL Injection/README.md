@@ -1,11 +1,5 @@
-# PortSwigger
-Mỗi ngày 1 write-up không thì sẽ làm con cún :&lt;
+<tittle>SQL INJECTION</tittle>
 
-Các lab của PortSwigger được viết wu đơn giản do mức độ lười của người viết. Càng về sau sẽ càng tối giản 🥰
-
-Thích thì ⭐ không thích thì ⭐
-
-**1. SQL Injection**
 <table>
 	<tr>
 		<td>Lab 1: </td>
