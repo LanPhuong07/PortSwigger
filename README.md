@@ -1,5 +1,5 @@
 # PortSwigger
-Mỗi ngày 1 write-up không thì sẽ làm con cún :&lt;
+Mỗi ngày 1 write-up không thì sẽ làm con cún 
 
 Các lab của PortSwigger được viết wu đơn giản do mức độ lười của người viết. Càng về sau sẽ càng tối giản 🥰
 
