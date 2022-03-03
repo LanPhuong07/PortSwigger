@@ -19,7 +19,7 @@ Thử kiểu dữ liệu text ở từng cột cho đến khi respose trả về
 
 ![[Pasted image 20220303221740.png]](https://github.com/LanPhuong07/PortSwigger/blob/main/pic/Pasted%20image%2020220303221740.png)
 
--> Cột 2
+-> Cột 2 có thể chèn string
 
 Chèn string theo yêu cầu:
 

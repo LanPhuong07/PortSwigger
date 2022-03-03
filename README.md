@@ -22,7 +22,7 @@ Thích thì ⭐ không thích thì ⭐
 	</tr>
 	<tr>
 		<td>Lab 4: </td>
-		<td>SQL injection UNION attack, finding a column containing text</td>
+		<td><a href="https://github.com/LanPhuong07/PortSwigger/blob/main/SQL%20Injection/Lab%204%20-%20SQL%20injection%20UNION%20attack%2C%20finding%20a%20column%20containing%20text.md">SQL injection UNION attack, finding a column containing text</a></td>
 	</tr>
 	<tr>
 		<td>Lab 5: </td>
