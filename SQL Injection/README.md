@@ -23,7 +23,7 @@
 	</tr>
 	<tr>
 		<td>Lab 6: </td>
-		<td>SQL injection UNION attack, retrieving multiple values in a single column</td>
+		<td><a href="https://github.com/LanPhuong07/PortSwigger/blob/main/SQL%20Injection/Lab%206%20-%20SQL%20injection%20UNION%20attack%2C%20retrieving%20multiple%20values%20in%20a%20single%20column.md">SQL injection UNION attack, retrieving multiple values in a single column</a></td>
 	</tr>
 	<tr>
 		<td>Lab 7: </td>
