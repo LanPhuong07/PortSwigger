@@ -7,11 +7,9 @@
         "id": "84188c43149c9929",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "SQL Injection/Lab 6 - SQL injection UNION attack, retrieving multiple values in a single column.md",
-            "mode": "source",
-            "source": true
+            "file": "pic/Pasted image 20220617143836.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection/Lab 6 - SQL injection UNION attack, retrieving multiple values in a single column.md",
+                "file": "pic/Pasted image 20220617143836.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "84188c43149c9929",
   "lastOpenFiles": [
+    "pic/Pasted image 20220617143836.png",
     "SQL Injection/Lab 6 - SQL injection UNION attack, retrieving multiple values in a single column.md",
     "SQL Injection/Lab 1 - SQL injection vulnerability in WHERE clause allowing retrieval ofhidden data.md",
     "SQL Injection/Lab 2 - SQL injection vulnerability allowing login bypass.md",
     "SQL Injection/Lab 3 - SQL injection UNION attack, determining the number of columns returned by the query.md",
     "SQL Injection/Lab 4 - SQL injection UNION attack, finding a column containing text.md",
     "SQL Injection/Lab 5 - SQL injection UNION attack, retrieving data from other tables.md",
-    "Pasted image 20220617150629.png",
+    "pic/Pasted image 20220617150629.png",
     "SQL Injection/README.md",
-    "pic/Pasted image 20220617100445.png",
-    "pic/Pasted image 20220617100635.png"
+    "pic/Pasted image 20220617100445.png"
   ]
 }
