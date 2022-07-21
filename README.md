@@ -19,3 +19,5 @@ Thích thì ⭐ không thích thì ⭐
 		<td><a href="https://github.com/LanPhuong07/PortSwigger/tree/main/XSS">Cross-site scripting (XSS)</a></td>
 	</tr>
 </table>
+
+<í> Đừng để ý đến cái đống commit </i>
