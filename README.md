@@ -20,4 +20,4 @@ Thích thì ⭐ không thích thì ⭐
 	</tr>
 </table>
 
-<í> Đừng để ý đến cái đống commit </i>
+<i> Đừng để ý đến cái đống commit </i>
